@@ -1,0 +1,26 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: auto 2vw;
+}
+
+.name {
+    margin-left: 2vw;
+    font-size: 24px;
+}
+
+a:hover {
+    color: black;
+}
+
+nav ul li a {
+   text-decoration: none;
+}
