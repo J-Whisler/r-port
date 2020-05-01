@@ -21,7 +21,7 @@ class Portfolio extends Component {
                 <div className="card-body">
                   <h5 className="card-title">Brewery Locator</h5>
                   <p className="card-text">Find a brewery near you using your current location or seach a city and state to see what is available in the area.</p>
-                  <a href="https://j-whisler.github.io/Project-1/" className="btn btn-primary">Find a brewery!</a>
+                  <a href="https://j-whisler.github.io/Project-1/" target="_blank" className="btn btn-primary">Find a brewery!</a>
                 </div>
               </div>
       
@@ -30,7 +30,7 @@ class Portfolio extends Component {
                   <div className="card-body">
                     <h5 className="card-title">Weather</h5>
                     <p className="card-text">Get the weather of your city by ZIP CODE as well as a 5-day forecast, or search a different city's weather.</p>
-                    <a href="https://j-whisler.github.io/Weather-Dashboard2/" className="btn btn-primary">Get Weather!</a>
+                    <a href="https://j-whisler.github.io/Weather-Dashboard2/" target="_blank" className="btn btn-primary">Get Weather!</a>
                   </div>
                 </div>
 
@@ -39,7 +39,7 @@ class Portfolio extends Component {
                 <div className="card-body">
                   <h5 className="card-title">Developer Profile Generator</h5>
                   <p className="card-text">Generate a  developer profile!</p>
-                  <a href="https://j-whisler.github.io/dev-prof-gen/" className="btn btn-primary">Develope a profile!</a>
+                  <a href="https://j-whisler.github.io/dev-prof-gen/" target="_blank" className="btn btn-primary">Develope a profile!</a>
                 </div>
             </div>
             </div>
@@ -50,7 +50,7 @@ class Portfolio extends Component {
                 <div className="card-body">
                   <h5 className="card-title">Penny Pinchers</h5>
                   <p className="card-text">Use this app to save money!</p>
-                  <a href="https://penny-pinchers-v2.herokuapp.com/" className="btn btn-primary">Save!</a>
+                  <a href="https://penny-pinchers-v2.herokuapp.com/" target="_blank" className="btn btn-primary">Save!</a>
                 </div>
               </div>
       
@@ -59,7 +59,7 @@ class Portfolio extends Component {
                   <div className="card-body">
                     <h5 className="card-title">Passwrod Generator</h5>
                     <p className="card-text">Use this app to generate a random password</p>
-                    <a href="https://j-whisler.github.io/pass-gen/" className="btn btn-primary">Generate!</a>
+                    <a href="https://j-whisler.github.io/pass-gen/" target="_blank" className="btn btn-primary">Generate!</a>
                   </div>
                 </div> 
 
@@ -68,7 +68,7 @@ class Portfolio extends Component {
                 <div className="card-body">
                   <h5 className="card-title">Day Planner</h5>
                   <p className="card-text">Plan your day!</p>
-                  <a href="https://j-whisler.github.io/Day-Planner/" className="btn btn-primary">Start Planning!</a>
+                  <a href="https://j-whisler.github.io/Day-Planner/" target="_blank" className="btn btn-primary">Start Planning!</a>
                 </div>
             </div>
 
