@@ -26,10 +26,7 @@ class About extends Component {
 
           
         </div>
-            <div className="links">
-        <button><a href="https://github.com/J-Whisler/"></a>Github</button>
-        <button><a href={resume}></a>Resume</button>
-        </div>
+      
     </body>
         )
     }
