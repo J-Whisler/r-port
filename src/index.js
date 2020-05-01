@@ -3,12 +3,17 @@ import ReactDOM from 'react-dom';
 import './index.css';
 // import App from './App';
 import * as serviceWorker from './serviceWorker';
-import Nav from './nav'
+import Nav from './nav';
+import About from './about'
+import Portfolio from './portfolio';
 import Contact from './contact';
 
 ReactDOM.render(
   <React.StrictMode>
     <Nav />
+    <About />
+    <Portfolio />
+    
     <Contact />
   </React.StrictMode>,
   document.getElementById('root')

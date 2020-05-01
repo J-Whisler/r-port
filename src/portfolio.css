@@ -1,0 +1,43 @@
+.porfolio-container {
+    overflow: hidden;
+    margin-bottom: 2vh;
+    
+}
+.portfolio-body {
+   border-bottom: 20px white solid; 
+}
+
+.card-container {
+    text-align: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: blueviolet;
+    padding-bottom: 4vh;
+}
+.card {
+    display: inline-block;
+    /* height: 400px; */
+    width: 225px;
+    margin: 1vh 1vw;
+    justify-content: left;
+    text-align: center;
+    border: 3px black solid;
+}
+
+.image {
+    width: 225px;
+    height: 150px;
+}
+
+.btn:hover {
+    color: thistle;
+}
+.my-projects {
+    padding-left: 1vw;
+    font-size: 24px;
+    background-color: blueviolet;
+    text-align: left;
+}
+.projects-div {
+    background-color: blueviolet;
+}

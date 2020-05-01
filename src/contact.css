@@ -1,0 +1,33 @@
+form {
+    background-color: blue;
+    text-align: center;
+}
+
+.contact {
+    padding-top: 2vh;
+}
+
+.contact-me {
+    background-color: blue;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 1vw;
+}
+.form-group {
+    height: 50px;
+    width: 100vw;
+}
+
+.submit {
+    margin: 2vh auto;
+}
+.links {
+    color: white;
+    background-color: blue;
+    text-align: center;
+    
+}
+
+
+
+

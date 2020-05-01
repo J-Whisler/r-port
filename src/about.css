@@ -1,0 +1,25 @@
+.about-body {
+  height: 45vh;
+  width: 100vw;
+  background-color: teal;
+  border-bottom: 20px white solid;
+}
+
+.about-div {
+    display: flex;
+}
+
+.my-img {
+    width: 200px;
+    height: 200px;
+    margin-right: 3vw;
+    margin-left: 1vw;
+}
+
+.about {
+    margin-left: 1vw;
+}
+
+.links {
+    color: white;
+}
