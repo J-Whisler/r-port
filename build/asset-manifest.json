@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/r-port/static/css/main.738028c3.chunk.css",
+    "main.js": "/r-port/static/js/main.c107f83f.chunk.js",
+    "main.js.map": "/r-port/static/js/main.c107f83f.chunk.js.map",
+    "runtime-main.js": "/r-port/static/js/runtime-main.af92aed9.js",
+    "runtime-main.js.map": "/r-port/static/js/runtime-main.af92aed9.js.map",
+    "static/js/2.57236b2f.chunk.js": "/r-port/static/js/2.57236b2f.chunk.js",
+    "static/js/2.57236b2f.chunk.js.map": "/r-port/static/js/2.57236b2f.chunk.js.map",
+    "index.html": "/r-port/index.html",
+    "precache-manifest.89eb0e0d4bde0f26f9aea60d683e8a97.js": "/r-port/precache-manifest.89eb0e0d4bde0f26f9aea60d683e8a97.js",
+    "service-worker.js": "/r-port/service-worker.js",
+    "static/css/main.738028c3.chunk.css.map": "/r-port/static/css/main.738028c3.chunk.css.map",
+    "static/js/2.57236b2f.chunk.js.LICENSE.txt": "/r-port/static/js/2.57236b2f.chunk.js.LICENSE.txt",
+    "static/media/JWhislerResume.pdf": "/r-port/static/media/JWhislerResume.23673770.pdf",
+    "static/media/beer.png": "/r-port/static/media/beer.1a018f91.png",
+    "static/media/devgen.png": "/r-port/static/media/devgen.2d1e267b.png",
+    "static/media/me.jpg": "/r-port/static/media/me.0cd1046f.jpg",
+    "static/media/password.png": "/r-port/static/media/password.a3bb0cf3.png",
+    "static/media/planner.png": "/r-port/static/media/planner.a93f1683.png",
+    "static/media/pp2.png": "/r-port/static/media/pp2.82e7802c.png",
+    "static/media/weather.jpg": "/r-port/static/media/weather.392d94df.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af92aed9.js",
+    "static/js/2.57236b2f.chunk.js",
+    "static/css/main.738028c3.chunk.css",
+    "static/js/main.c107f83f.chunk.js"
+  ]
+}
